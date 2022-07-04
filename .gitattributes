@@ -1,4 +1,2 @@
-*.dSYM filter=lfs diff=lfs merge=lfs -text
-UnityFramework filter=lfs diff=lfs merge=lfs -text
 UnityFramework.framework.dSYM/Contents/Resources/DWARF/UnityFramework filter=lfs diff=lfs merge=lfs -text
 UnityFramework.framework/UnityFramework filter=lfs diff=lfs merge=lfs -text
